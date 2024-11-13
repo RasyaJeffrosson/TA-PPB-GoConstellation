@@ -12,7 +12,7 @@ export default function Header() {
         >
           <Image alt="icon" src={controller} width="50" height="50" />
           <div class="text-left">
-            <span class="ml-3 text-xl text-white font-extrabold">Brightest Star</span>
+            <span class="ml-3 text-xl text-white font-extrabold">GoConstellation</span>
 
           </div>
         </Link>

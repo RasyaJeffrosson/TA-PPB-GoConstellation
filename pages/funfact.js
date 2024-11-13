@@ -15,7 +15,7 @@ export default function Tools() {
       <section class="text-gray-600 bg-black body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="text-2xl font-medium title-font mb-4 text-slate-200">Star Funfact</h1>
+      <h1 class="text-2xl font-medium title-font mb-4 text-slate-200">Star Fun Fact</h1>
       <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Beberapa fakta menarik tentang bintang.</p>
     </div>
     <div class="flex flex-wrap -m-4">
