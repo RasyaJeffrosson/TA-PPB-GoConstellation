@@ -17,7 +17,7 @@ export default function Footer() {
       <div class="bg-black">
         <div class="container mx-auto py-4 px-5 flex flex-wrap justify-center  sm:flex-row">
           <p class="text-slate-200 text-bold text-sm text-center sm:text-left">
-            @Rasya_Jeffrosson
+            @Rasya_Jeffrosson_21120122140092
           </p>
         </div>
       </div>
